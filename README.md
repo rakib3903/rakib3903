@@ -22,6 +22,6 @@ https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
   
 ![GitHub metrics](https://metrics.lecoq.io/rakib3903)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rakib3903)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rakib3903&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 ![Profile views](https://gpvc.arturio.dev/rakib3903)  
