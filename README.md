@@ -18,7 +18,7 @@ Skills: c, c++, java, pythone, html, css
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3903)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub states]https://github-readme-streak-stats.herokuapp.com/?user=rakib3903
+[![GitHub states](https://github-readme-streak-stats.herokuapp.com/?user=rakib3903)
   
 ![GitHub metrics](https://metrics.lecoq.io/rakib3903)  
 
