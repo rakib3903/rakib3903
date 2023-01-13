@@ -16,9 +16,7 @@ Skills: c, c++, java, pythone, html, css
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rakib3903)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub states](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub states](https://github-readme-streak-stats.herokuapp.com/?user=rakib3903)
+[![GitHub states](https://github.com/anuraghazra/github-readme-stats)]
   
 ![GitHub metrics](https://metrics.lecoq.io/rakib3903)
 
