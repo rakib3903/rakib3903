@@ -14,10 +14,10 @@ I am a student of Computer Science and Engineering (CSE) at Rajshahi Univeersity
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rakib3903)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3903&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3903&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib3903)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rakib3903)](https://git.io/streak-stats) ] 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rakib3903)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/rakib3903) 
