@@ -22,6 +22,4 @@ Skills: c, c++, java, pythone, html, css
   
 ![GitHub metrics](https://metrics.lecoq.io/rakib3903)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rakib3903)](https://git.io/streak-stats) 
-
-![Profile views](https://gpvc.arturio.dev/rakib3903)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rakib3903)](https://git.io/streak-stats)  
