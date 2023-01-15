@@ -16,7 +16,7 @@ I am a student of Computer Science and Engineering (CSE) at Rajshahi Univeersity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3903&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3903&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3903&theme=tokyonight)
 
 ![Profile views](https://gpvc.arturio.dev/rakib3903) 
