@@ -18,10 +18,6 @@
 
 ---
 
-### :man_technologist: About Me :
-
----
-
 ### :fire: My Stats :
 <div display = "center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib3903&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
